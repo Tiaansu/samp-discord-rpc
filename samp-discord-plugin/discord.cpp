@@ -35,9 +35,9 @@ namespace Discord
 		discordPresence.state = state;
 		discordPresence.details = details;
 		discordPresence.startTimestamp = time;
-		discordPresence.largeImageKey = "logo";
+		discordPresence.largeImageKey = image;
 		discordPresence.largeImageText = imageDetails;
-		discordPresence.smallImageKey = image;
+		discordPresence.smallImageKey = "info";
 		discordPresence.smallImageText = infoDetails;
 
 		DiscordButton buttons[] = {

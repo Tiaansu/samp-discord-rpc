@@ -40,7 +40,7 @@ static void process(void*)
 					auto info = "Playing " + information.gamemode + " as " + data.username + " in " + information.language;
 					auto image = logo;
 
-					if (image == "logo") {
+					if (image != "logo") {
 						Discord::update(start, fullAddress, information.hostname, image, info, players, "Play now", "samp://samp.phr-rp.net:7777", "Discord", "https://discord.gg/phr-rp");
 					}
 					Sleep(15000-QUERY_DEFAULT_TIMEOUT*2);
