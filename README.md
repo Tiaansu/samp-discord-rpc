@@ -6,7 +6,7 @@ This plugin features custom server logos.
 If you'd like your server added to the custom logos list, [create an issue](https://github.com/Tiaansu/samp-discord-rpc/issues) with a 512x512 logo (must be only either PNG, JPEG, or JPG) attached and your server's IP address.
 
 ## Note!
-For this repo, we currently accepting server from Philippines and we will ignore any server outside Philippines.
+For this repo, I currently accepting only PHR-RP. And will support ALL soon.
 
 ## Slot
 1/297
