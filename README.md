@@ -44,6 +44,10 @@ Current placeholders:
 - LANGUAGE
 - GAMEMODE
 
+### Example usage of placeholders
+
+Playing in {SERVER_NAME}.
+
 ## Preview
 ![Screenshot](./assets//preview-1.png)
 ![Screenshot](./assets//preview-2.png)
