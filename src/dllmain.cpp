@@ -29,7 +29,7 @@ static void Process(void*)
 
     std::string serverAddress = serverInfo.address;
     std::string serverPort = serverInfo.port;
-    std::string serverUrl = "Tiaansu/samp-discord-rpc/main/servers/" + serverAddress + ":" + serverPort + ".json";
+    std::string serverUrl = "Tiaansu/samp-discord-rpc/main/servers/" + serverAddress + "_" + serverPort + ".json";
 
     HTTP::WebRequest webRequest("Mozilla/5.0", "raw.githubusercontent.com", INTERNET_DEFAULT_HTTPS_PORT);
     nlohmann::json serverResponse = webRequest.Get(serverUrl.c_str());

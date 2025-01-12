@@ -13,6 +13,12 @@ on:
       - '.github/workflows/build.yml'
   pull_request:
     branches: '*'
+    paths:
+      - '**.cpp'
+      - '**.hpp'
+      - '**.c'
+      - '**.h'
+      - '.github/workflows/build.yml'
 
 jobs:
   build-windows:
