@@ -1,0 +1,15 @@
+{
+    "application_id": ""
+    "logo": ""
+    "small_image": ""
+    "large_text": ""
+    "small_text": ""
+    "details": ""
+    "state": ""
+    "buttons": [
+      {
+          "label": "My Label",
+          "url": "https://dsc.gg/lirp"
+      }
+    ]
+}
