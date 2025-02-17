@@ -26,6 +26,19 @@ button structure:
     "url": ""
 }
 ```
+
+example:
+```jsonc
+{
+    // ... other config
+    "buttons": [
+        {
+            "label": "",
+            "url": ""
+        }
+    ]
+}
+```
 4. Create pull request
 5. Wait to be accepted.
 
