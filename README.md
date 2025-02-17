@@ -5,17 +5,17 @@ This plugin features custom server logos
 ## How to add your own servers with logos:
 1. Fork the repository
 2. Create `ip_port.json` (e.g. `127.0.0.1_7777.json`) file in `servers` folder
-3. Fill-up this (optional fields can be empty)
+3. Fill-up this (all fields are optional)
 ```json
 {
-    "application_id": "", // optional, you can create your own discord-rpc on https://discord.com/developers/applications and use the assets to "logo" and "small_image".
-    "logo": "", // optional
-    "small_image": "", // optional
-    "large_text": "", // optional
-    "small_text": "", // optional
-    "details": "", // optional
-    "state": "", // optional
-    "buttons": [] // optional
+    "application_id": "",
+    "logo": "",
+    "small_image": "",
+    "large_text": "",
+    "small_text": "",
+    "details": "",
+    "state": "",
+    "buttons": []
 }
 ```
 
