@@ -1,6 +1,6 @@
 {
     "application_id": "1216269049588088883",
-    "logo": "https://i.imgur.com/xR3rXV1.jpeg",
+    "logo": "https://i.imgur.com/EJwen8M.jpeg",
     "small_image": "https://i.imgur.com/ww7idzD.png",
     "large_text": "",
     "small_text": "",
@@ -8,8 +8,8 @@
     "state": "",
     "buttons": [
       {
-          "label": "",
-          "url": ""
+          "label": "Discord",
+          "url": "https://discord.com/invite/phr-rp"
       }
    ]
 }
