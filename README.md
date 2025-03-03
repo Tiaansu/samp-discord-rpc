@@ -6,7 +6,7 @@ This plugin features custom server logos
 1. Fork the repository
 2. Create `ip_port.json` (e.g. `127.0.0.1_7777.json`) file in `servers` folder
 > [!IMPORTANT]
-> For some reason, IP address are only allowed.
+> For some reason, IP address are only allowed.   
 > If you know how can this plugin, please open a pull request.
 3. Fill-up this (all fields are optional)
 ```json
